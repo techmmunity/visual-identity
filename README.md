@@ -3,6 +3,9 @@
 ## Sumário
 
 - [Sobre a Techmmunity](https://github.com/techmmunity/visual-identity#sobre-a-techmmunity)
+  - [Nossa Missão](https://github.com/techmmunity/visual-identity#nossa-miss%C3%A3o)
+  - [Nossos Visão](https://github.com/techmmunity/visual-identity#nossa-vis%C3%A3o)
+  - [Nossos Valores](https://github.com/techmmunity/visual-identity#nossos-valores)
 - [A Estrutura da Techmmunity](https://github.com/techmmunity/visual-identity#a-estrutura-da-techmmunity)
   - [Primeira Camada - A Empresa](https://github.com/techmmunity/visual-identity#primeira-camada---a-empresa)
   - [Segunda Camada - Os Setores](https://github.com/techmmunity/visual-identity#segunda-camada---os-setores)
@@ -42,6 +45,40 @@ Nossa empresa será 100% digital, então não teremos **absolutamente nada** fí
 Traçamos um plano de atuação com a duração de vários e vários anos, onde pretendemos expandir cada vez mais a empresa e atuarmos em **todos** os setores relacionados a tecnologia.
 
 Para que possamos expandir e nos estabelecer no mercado sem medo ou risco de perdermos a imagem que construímos, precisamos de uma identidade visual flexível e consistente. Os requisitos para uma identidade visual assim serão melhor explicados no decorrer desse manifesto.
+
+#### Nossa Missão
+
+```
+A missão da Techmmunity é prover os recursos necessários para que as pessoas possam mudar o mundo através da tecnologia.
+```
+
+Fazemos isso criando uma comunidade com um ambiente agradável e amigável, onde pessoas podem trocar conhecimentos, fazer networking e formar times, onde juntos, possam mudar o mundo.
+
+Nos recursos que comentamos, podem ser enquadrados: conhecimento, pessoas, mão de obra, empregos, conexões, ferramentas e diversas outras coisas.
+
+#### Nossa Visão
+
+```
+"Nada que valha a pena jamais foi construído por uma pessoa sozinha."
+```
+
+Um dos pontos principais que permitiram que a humanidade se tornasse a espécie dominante do planeta, é sem dúvida o fato de que a humanidade se tornou cada vez **mais especializada** e **menos generalista**.
+
+Isso significa que ao invés de todos os membros de uma sociedade fazerem múltiplas tarefas de forma medíocre, cada uma delas se torna especialista em algo, e passa a fazer aquela tarefa muito melhor do que se ela estivesse dividindo seus esforços com várias outras skills.
+
+Aqui na Techmmunity, nós não acreditamos em unicórnios. Tudo que valha a pena não é construído por uma pessoa excepcional, e sim por um grupo de pessoas ótimas. O trabalho em equipe foi o que trouxe a humanidade até aqui, e é o que vai guiar a humanidade ao infinito e além.
+
+[![infinity-and-beyond](https://media.giphy.com/media/o7uoUTaXjbNbq/giphy.gif)]()
+
+Nós ensinamos de tudo, sim, mas não com o objetivo de que todos os membros de nossa comunidade estudem todos os conteúdos que produzimos, e sim com o objetivo de ensinar cada um deles um tópico específico que seja do interesse dele, e essa pessoa entrar em um time, com outras pessoas com interesses diferentes, e juntos, mudarem o mundo do jeito deles.
+
+> O que é um unicórnio na área de TI?: Um unicórnio é alguém que consegue fazer o trabalho de 2 ou mais pessoas, com a mesma qualidade e em um espaço de tempo muito curto. Um unicórnio sozinho seria um departamento de Ti todo, ou seja, um semi-deus.
+
+#### Nossos Valores
+
+Sobre nossos valores, sem dúvida, um video dirá mais do que qualquer texto:
+
+[Apes Together Strong](https://www.youtube.com/watch?v=20LuSlZT4S4)
 
 ## A Estrutura da Techmmunity
 
