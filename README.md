@@ -21,6 +21,7 @@
 - [Exemplos De Consistência Visual Entre Produtos Da Mesma Marca](https://github.com/techmmunity/visual-identity#exemplos-de-consist%C3%AAncia-visual-entre-produtos-da-mesma-marca)
   - [Google](https://github.com/techmmunity/visual-identity#google)
   - [Atlassian](https://github.com/techmmunity/visual-identity#atlassian)
+  - [Elastic](https://github.com/techmmunity/visual-identity#elastic)
 - [Exemplos de Logos Ruins](https://github.com/techmmunity/visual-identity#exemplos-de-logos-ruins)
   - [Logo Ruim Aleatório 1 - Linhas](https://github.com/techmmunity/visual-identity#logo-ruim-aleat%C3%B3rio-1---linhas)
   - [Logo Ruim Aleatório 2 - Clichês](https://github.com/techmmunity/visual-identity#logo-ruim-aleat%C3%B3rio-2---clich%C3%AAs)
@@ -72,7 +73,7 @@ Aqui na Techmmunity, nós não acreditamos em unicórnios. Tudo que valha a pena
 
 Nós ensinamos de tudo, sim, mas não com o objetivo de que todos os membros de nossa comunidade estudem todos os conteúdos que produzimos, e sim com o objetivo de ensinar cada um deles um tópico específico que seja do interesse dele, e essa pessoa entrar em um time, com outras pessoas com interesses diferentes, e juntos, mudarem o mundo do jeito deles.
 
-> O que é um unicórnio na área de TI?: Um unicórnio é alguém que consegue fazer o trabalho de 2 ou mais pessoas, com a mesma qualidade e em um espaço de tempo muito curto. Um unicórnio sozinho seria um departamento de Ti todo, ou seja, um semi-deus.
+> O que é um unicórnio na área de TI? Um unicórnio é alguém que consegue fazer o trabalho de 2 ou mais pessoas, com a mesma qualidade e em um espaço de tempo muito curto. Um unicórnio sozinho seria um departamento de Ti todo, ou seja, um semi-deus.
 
 #### Nossos Valores
 
@@ -228,6 +229,19 @@ Apesar dos logos dos produtos não serem muito icônicos, o logo da empresa em s
 
 Não é a melhor identidade visual que existe, mas ainda assim é muito boa.
 
+#### Elastic
+
+[![Elastic](https://awsmp-logos.s3.amazonaws.com/elasticsearch-logo.png)]()
+
+Elastic é uma empresa que surgiu através de um produto, o **ElasticSearch**. Seu principal foco era facilitar a busca por coisas (Tipo uma barra de busca do google, só que interna pro seu website, o que pode parecer super banal, mas acredite, é extremamente revolucionário).
+
+Com o tempo, eles foram expandindo seus produtos, e hoje é uma das maiores empresas focadas em coleta de logs do mundo.
+
+Eles tem inúmeros produtos, mas todos eles seguem uma mesma identidade visual. Ela é muito icônica e extremamente reconhecível, o único ponto negativo é que ela só funciona com cores, e não funcionaria em preto e branco.
+
+[![Elastic1](https://www.emerce.nl/content/uploads/2016/10/elastic_stack.png)]()
+[![Elastic2](https://www.ntt-tx.co.jp/whatsnew/2016/img/elasticstack.png)]()
+
 ### Exemplos de Logos Ruins
 
 #### Logo Ruim Aleatório 1 - Linhas
@@ -252,6 +266,12 @@ Aqui estão alguns exemplos desse tipo de logo:
 
 [![LogoRuimAleatório21](https://cdn1.vectorstock.com/i/1000x1000/24/00/technology-logo-template-vector-17102400.jpg)]()
 [![LogoRuimAleatório24](https://www.codester.com/static/uploads/items/000/015/15811/preview-xl.jpg)]()
+
+E aqui estão alguns exemplos de backgrounds clichês:
+
+[![LogoRuimAleatório25](https://cdn1.vogel.de/unsafe/800x0/smart/images.vogel.de/vogelonline/bdb/1640200/1640212/original.jpg)]()
+[![LogoRuimAleatório26](https://ak2.picdn.net/shutterstock/videos/22045072/thumb/1.jpg)]()
+[![LogoRuimAleatório27](https://image.freepik.com/free-vector/technology-background-with-triangle-shapes_1017-7929.jpg)]()
 
 #### Logo Ruim Aleatório 3 - Complexidade
 
@@ -294,8 +314,13 @@ Assim como a estrutura da Techmmunity, a identidade visual deve ser dividida em 
 #### Empresa
 
 - **Cores:** Pensamos em algo colorido, com todas as cores do arco-íris, assim representando a diversidade de nossas ideias, das pessoas que trabalham conosco, de nossos usuários, de nossos produtos e muito mais.
-- **Formas:** Segundo o [Bouba/KiKi Effect](https://uxplanet.org/rounded-or-sharp-corner-buttons-def3977ed7c4), a forma geometrica mais amigavel seria algo **redondo**, por isso, em teoria, ele **seria** nossa preferência, porém acreditamos que seria muito mais complexo manter uma consistência de marca com uma identidade visual redonda, por isso optamos mais por formas **triangulares** ou **quadradas**.
+  - Pensamos em [cores neon](https://simplicable.com/new/neon-colors), já que são cores bem alegres e combinam bastante com tecnologia.
+- **Formas:** Segundo o [Bouba/KiKi Effect](https://uxplanet.org/rounded-or-sharp-corner-buttons-def3977ed7c4), a forma geometrica mais amigavel seria algo **redondo**, por isso, em teoria, ele **seria** nossa preferência, porém acreditamos que seria muito mais complexo manter uma consistência de marca com uma identidade visual redonda, por isso optamos mais por formas **triangulares**.
 - **Tipografia:** Gostamos bastante da ideia do nome escrito da empresa ser todo em letras minúsculas, fica bem alinhado e confortável aos olhos.
+
+Aqui uma imagem que acreditamos que seja uma boa fonte de inspiração:
+
+[![Inpiration](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d469adbc-df11-4e1f-a816-d215a8a20512/dafk6fe-2060e579-0ed7-4e7d-bc0f-63ca8a6775df.png/v1/fill/w_1024,h_576,q_75,strp/league_of_legends_arcade_skins_wallpaper_by_beski_by_beszky-dafk6fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kNDY5YWRiYy1kZjExLTRlMWYtYTgxNi1kMjE1YThhMjA1MTIvZGFmazZmZS0yMDYwZTU3OS0wZWQ3LTRlN2QtYmMwZi02M2NhOGE2Nzc1ZGYucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTU3NiJ9XV19.xMek782HIuv5vuolDXxdy-zMNHOEmpomMMHoBsKZKLc)]()
 
 #### Setores
 
