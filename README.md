@@ -36,6 +36,15 @@
 - [O Que Queremos Evitar](https://github.com/techmmunity/visual-identity#o-que-queremos-evitar)
 - [Algumas Considerações](https://github.com/techmmunity/visual-identity#algumas-considera%C3%A7%C3%B5es)
 - [O Buscamos Neste Projeto](https://github.com/techmmunity/visual-identity#o-buscamos-neste-projeto)
+- [Resultado Final - Prova de Conceito Inicial](https://github.com/techmmunity/visual-identity#resultado-final---prova-de-conceito-inicial)
+  - [Logos](https://github.com/techmmunity/visual-identity#logos)
+    - [Staff](https://github.com/techmmunity/visual-identity#staff)
+    - [Programação](https://github.com/techmmunity/visual-identity#programa%C3%A7%C3%A3o)
+    - [Design Gráfico](https://github.com/techmmunity/visual-identity#design-gr%C3%A1fico)
+    - [Sonoplastia](https://github.com/techmmunity/visual-identity#sonoplastia)
+    - [Eng. Robótica](https://github.com/techmmunity/visual-identity#eng-rob%C3%B3tica)
+    - [Gestão](https://github.com/techmmunity/visual-identity#gest%C3%A3o)
+    - [Marketing](https://github.com/techmmunity/visual-identity#marketing)
 
 ## Sobre a Techmmunity
 
@@ -307,40 +316,54 @@ Esse logo de exemplo é retangular, o que causa um desconforto.
 
 Quando um animal é usado para representar uma empresa, o logo se prende a algo que já existe e já tem um conceito previo formado na mente das pessoas. Águias, Leões, são animais clichês que limitam o potencial da empresa, são lucidos de mais.
 
-### O Que Pensamos Até Agora Para a Identidade Visual
+## O Que Pensamos Para a Identidade Visual
 
 Assim como a estrutura da Techmmunity, a identidade visual deve ser dividida em três partes: Empresa, Setor e Produto.
 
 #### Empresa
 
-- **Cores:** Pensamos em algo colorido, com todas as cores do arco-íris, assim representando a diversidade de nossas ideias, das pessoas que trabalham conosco, de nossos usuários, de nossos produtos e muito mais.
-  - Pensamos em [cores neon](https://simplicable.com/new/neon-colors), já que são cores bem alegres e combinam bastante com tecnologia.
-- **Formas:** Segundo o [Bouba/KiKi Effect](https://uxplanet.org/rounded-or-sharp-corner-buttons-def3977ed7c4), a forma geometrica mais amigavel seria algo **redondo**, por isso, em teoria, ele **seria** nossa preferência, porém acreditamos que seria muito mais complexo manter uma consistência de marca com uma identidade visual redonda, por isso optamos mais por formas **triangulares**.
-- **Tipografia:** Gostamos bastante da ideia do nome escrito da empresa ser todo em letras minúsculas, fica bem alinhado e confortável aos olhos.
+Acreditamos que a melhor inspiração para a identidade visual de nossa empresa são as **Skins Arcade**, de League of Legends. Seguem algumas imagens de referencia:
 
-Aqui uma imagem que acreditamos que seja uma boa fonte de inspiração:
+[![Inpiration1](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d469adbc-df11-4e1f-a816-d215a8a20512/dafk6fe-2060e579-0ed7-4e7d-bc0f-63ca8a6775df.png/v1/fill/w_1024,h_576,q_75,strp/league_of_legends_arcade_skins_wallpaper_by_beski_by_beszky-dafk6fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kNDY5YWRiYy1kZjExLTRlMWYtYTgxNi1kMjE1YThhMjA1MTIvZGFmazZmZS0yMDYwZTU3OS0wZWQ3LTRlN2QtYmMwZi02M2NhOGE2Nzc1ZGYucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTU3NiJ9XV19.xMek782HIuv5vuolDXxdy-zMNHOEmpomMMHoBsKZKLc)]()
+[![Inpiration2](https://i.ytimg.com/vi/IC-3OxmC_aY/maxresdefault.jpg)]()
+[![Inpiration4](https://pbs.twimg.com/media/CpcK4I2UkAA4gT-.jpg)]()
+[![Inpiration5](https://imguol.com/c/entretenimento/6b/2016/03/31/league-of-legends---riven-fliperama---cblol-skin-1459443553517_930x548.jpg)]()
+[![Inpiration6](https://www.legendsbr.com/wp-content/uploads/2015/05/Hecarim_4.jpg)]()
+[![Inpiration7](https://cdn.ome.lt/xo2oWNhuyoRhgpLHvI2wrOIOrmA=/1200x630/smart/extras/conteudos/ArcadeSkins.png)]()
+[![Inpiration8](https://www.oniversoabominavel.com/wp-content/uploads/2019/06/1560277684939-d8zmwluw4aa9n7d.jpg)]()
+[![Inpiration10](https://i0.wp.com/cebolaverde.com.br/wp-content/uploads/2017/08/e36f15ebcfd222e9.jpg)]()
+[![Inpiration11](https://lolstatic-a.akamaihd.net/frontpage/apps/prod/skins-arcade-2016/pt_BR/f4c1e232ac42e2be734952e1a577f096f02b955b/assets/images/nav-baron.png)]()
 
-[![Inpiration](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d469adbc-df11-4e1f-a816-d215a8a20512/dafk6fe-2060e579-0ed7-4e7d-bc0f-63ca8a6775df.png/v1/fill/w_1024,h_576,q_75,strp/league_of_legends_arcade_skins_wallpaper_by_beski_by_beszky-dafk6fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kNDY5YWRiYy1kZjExLTRlMWYtYTgxNi1kMjE1YThhMjA1MTIvZGFmazZmZS0yMDYwZTU3OS0wZWQ3LTRlN2QtYmMwZi02M2NhOGE2Nzc1ZGYucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTU3NiJ9XV19.xMek782HIuv5vuolDXxdy-zMNHOEmpomMMHoBsKZKLc)]()
+Sobre a tipografia, escolhemos a fonte [Fipps](https://www.dafont.com/pt/fipps.font?fpp=200&a=on&l[]=10&l[]=1&text=techmmunity) para escrever o nome da empresa, e a [Roboto](https://www.dafont.com/pt/roboto.font) para textos em geral.
+
+Para o logo, escolhemos a letra `t`, em minusculo e usando a fonte Fipps.
 
 #### Setores
 
-- **Cores:** Como a identidade visual da empresa seria colorida, poderíamos atribuir uma das cores do logo da empresa para cada setor, atendendo a nossa necessidade de 6 setores e deixando brecha (sobrariam cores) para a possível criação de mais setores no futuro.
-- **Identidade Visual:** Queremos que toda a identidade visual, tanto da empresa quanto dos setores, sejam as mesmas, mudando apenas as cores (sei que isso impacta diretamente em um ponto que comentamos previamente nesse manifesto, o quesito de acessibilidade, porém como o "setor" será uma coisa mais abstrata e raramente será usado diretamente, muito menos sem estar acompanhado de outros elementos que representam o setor, acreditamos que diferencia-los apenas pelas cores já será o suficiente.)
+Todos os setores da Techmmunity terão o mesmo logo e seguirão a mesma identidade visual da empresa, o unico diferencial serão **as cores**. Cada setor da Techmmunity terá sua cor especifica, sendo elas:
+
+[![Cores Staff](https://img.shields.io/badge/Staff%20%23616565-616565.svg?style=for-the-badge)]()
+[![Cores Programação](https://img.shields.io/badge/Programa%C3%A7%C3%A3o%3A%20%2301d2ce-01d2ce.svg?style=for-the-badge)]()
+[![Cores Design Gráfico](https://img.shields.io/badge/Design%20Gr%C3%A1fico%3A%20%23fe0077-fe0077.svg?style=for-the-badge)]()
+[![Cores Sonoplastia](https://img.shields.io/badge/Sonoplastia%3A%20%236500ea-6500ea.svg?style=for-the-badge)]()
+[![Cores Eng. Robótica](https://img.shields.io/badge/Eng.%20Rob%C3%B3tica%3A%20%23007deb-007deb.svg?style=for-the-badge)]()
+[![Cores Gestão](https://img.shields.io/badge/Gest%C3%A3o%3A%20%23ff9901-ff9901.svg?style=for-the-badge)]()
+[![Cores Marketing](https://img.shields.io/badge/Marketing%3A%20%23f40428-f40428.svg?style=for-the-badge)]()
 
 #### Produtos
 
-- **Cores:** Como cada setor terá uma cor específica, pensamos em mudar um pouco a tonalidade da cor e atribuir ao produto. Por exemplo: Caso o setor de programação seja azul (o azul usado pela Alura, por exemplo), nosso produto pode ter um tom azul escuro.
+Cada produto terá uma cor principal baseada na categoria a qual aquele produto faz parte, mudando apenas o tom dessa cor. Por exemplo: O setor de programação tem uma cor azul mais clara, um produto desse setor terá um tom de azul escuro.
 
-### O Que Queremos Evitar
+## O Que Queremos Evitar
 
 - O uso da cor roxa como cor primária. A cor roxa vem sido saturada nos últimos anos, acreditamos que em um período muito próximo do futuro as pessoas vão enjoar de ver tanto roxo, gerando um pensamento subconsciente de "nossa, mais uma identidade visual roxa". A Techmmunity é uma empresa fora da curva, longe da caixinha, queremos fugir dos clichês.
 
-### Algumas Considerações
+## Algumas Considerações
 
 - Sabemos que o uso de conceitos pré estabelecidos ajudam a poupar muito dinheiro em propaganda, pois fazem com que nossos clientes já tenham uma familiariedade prévia com a marca, porém, nós não temos medo de desafios e acreditamos que vale a pena apostar no diferente, no abstrato, aceitarmos a missão de despertar a curiosidade de nossos clientes atraves da criatividade e de nossa qualidade. Sermos diferentes é o que nós torna fortes, é nossa razão de existir.
 - Nossos sites, plataformas, produtos, redes sociais, terão como modo primaŕio o **Dark Mode**, por isso, a tonalidade das cores deve ser pensada para se adaptar melhor a esses backgrounds mais escuros. [Aqui um artigo que pode ajuda a entender melhor o Dark Mode](https://uxplanet.org/8-tips-for-dark-theme-design-8dfc2f8f7ab6).
 
-### O Buscamos Neste Projeto
+## O Buscamos Neste Projeto
 
 Queremos ir avançando por partes, com calma, para que o resultado saia bem feito e com o mínimo de tentativas possíveis.
 
@@ -351,3 +374,35 @@ Então, queremos apenas 3 coisas:
 - Um logo para nosso primeiro **produto** (do setor de programação), uma plataforma online para a postagem de artigos.
 
 São poucas, porém bem complexas, por isso queremos primeiro deixar isso pronto e muito bem feito, para depois pensarmos em mais coisas relacionadas ao design.
+
+## Resultado Final - Prova de Conceito Inicial
+
+### Logos
+
+#### Staff
+
+[![Logo Staff](./assets/logos/tech-staff.png)]()
+
+#### Programação
+
+[![Logo Programação](./assets/logos/tech-programming.png)]()
+
+#### Design Gráfico
+
+[![Logo Design Gráfico](./assets/logos/tech-graphic.png)]()
+
+#### Sonoplastia
+
+[![Logo Sonoplastia](./assets/logos/tech-sound.png)]()
+
+#### Eng. Robótica
+
+[![Logo Eng. Robótica](./assets/logos/tech-robotic.png)]()
+
+#### Gestão
+
+[![Logo Gestão](./assets/logos/tech-management.png)]()
+
+#### Marketing
+
+[![Logo Marketing](./assets/logos/tech-marketing.png)]()
