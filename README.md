@@ -33,9 +33,6 @@
   - [Empresa](https://github.com/techmmunity/visual-identity#empresa)
   - [Setores](https://github.com/techmmunity/visual-identity#setores)
   - [Produtos](https://github.com/techmmunity/visual-identity#produtos)
-- [O Que Queremos Evitar](https://github.com/techmmunity/visual-identity#o-que-queremos-evitar)
-- [Algumas Considerações](https://github.com/techmmunity/visual-identity#algumas-considera%C3%A7%C3%B5es)
-- [O Buscamos Neste Projeto](https://github.com/techmmunity/visual-identity#o-buscamos-neste-projeto)
 - [Resultado Final - Prova de Conceito Inicial](https://github.com/techmmunity/visual-identity#resultado-final---prova-de-conceito-inicial)
   - [Logos](https://github.com/techmmunity/visual-identity#logos)
     - [Staff](https://github.com/techmmunity/visual-identity#staff)
@@ -96,25 +93,25 @@ Para entendermos melhor a marca, precisamos primeiro entender a estrutura da emp
 
 A Techmmunity tem uma estrutura de 3 camadas: A Empresa, Os Setores e Os Produtos.
 
-[![techmmunity-structure](./assets/techmmunity-structure.png)](./assets/techmmunity-structure.png)
+[![techmmunity-structure](./assets/structure/techmmunity-structure.png)](./assets/structure/techmmunity-structure.png)
 
 #### Primeira Camada - A Empresa
 
 A Primeira camada da Techmmunity é a empresa em si, aquilo que engloba todo o resto, esse é o núcleo da empresa e é a partir dele que as coisas se desenrolam.
 
-[![techmmunity-structure-company](./assets/techmmunity-structure-company.png)](./assets/techmmunity-structure-company.png)
+[![techmmunity-structure-company](./assets/structure/techmmunity-structure-company.png)](./assets/structure/techmmunity-structure-company.png)
 
 #### Segunda Camada - Os Setores
 
 Essa camada são os setores de atuação da Techmmunity, todos voltados para o setor de tecnologia. Eles são independentes uns dos outros, porém tem uma relação com a Techmmunity.
 
-[![techmmunity-structure-divisions](./assets/techmmunity-structure-divisions.png)](./assets/techmmunity-structure-divisions.png)
+[![techmmunity-structure-divisions](./assets/structure/techmmunity-structure-divisions.png)](./assets/structure/techmmunity-structure-divisions.png)
 
 #### Terceira Camada - Os Produtos
 
 Essa é a parte que nossos consumidores _realmente tem acesso_, nossos produtos e serviços, as partes _palpáveis_ da empresa. Cada setor da Techmmunity tem vários produtos e serviços.
 
-[![techmmunity-structure-products](./assets/techmmunity-structure-products.png)](./assets/techmmunity-structure-products.png)
+[![techmmunity-structure-products](./assets/structure/techmmunity-structure-products.png)](./assets/structure/techmmunity-structure-products.png)
 
 Não pretendemos começar a empresa atuando em todos os setores de uma vez, mas sim com apenas um deles, e quando já estivermos bem estabelecidos no mercado, começar a expandir para outros setores.
 
@@ -353,27 +350,6 @@ Todos os setores da Techmmunity terão o mesmo logo e seguirão a mesma identida
 #### Produtos
 
 Cada produto terá uma cor principal baseada na categoria a qual aquele produto faz parte, mudando apenas o tom dessa cor. Por exemplo: O setor de programação tem uma cor azul mais clara, um produto desse setor terá um tom de azul escuro.
-
-## O Que Queremos Evitar
-
-- O uso da cor roxa como cor primária. A cor roxa vem sido saturada nos últimos anos, acreditamos que em um período muito próximo do futuro as pessoas vão enjoar de ver tanto roxo, gerando um pensamento subconsciente de "nossa, mais uma identidade visual roxa". A Techmmunity é uma empresa fora da curva, longe da caixinha, queremos fugir dos clichês.
-
-## Algumas Considerações
-
-- Sabemos que o uso de conceitos pré estabelecidos ajudam a poupar muito dinheiro em propaganda, pois fazem com que nossos clientes já tenham uma familiariedade prévia com a marca, porém, nós não temos medo de desafios e acreditamos que vale a pena apostar no diferente, no abstrato, aceitarmos a missão de despertar a curiosidade de nossos clientes atraves da criatividade e de nossa qualidade. Sermos diferentes é o que nós torna fortes, é nossa razão de existir.
-- Nossos sites, plataformas, produtos, redes sociais, terão como modo primaŕio o **Dark Mode**, por isso, a tonalidade das cores deve ser pensada para se adaptar melhor a esses backgrounds mais escuros. [Aqui um artigo que pode ajuda a entender melhor o Dark Mode](https://uxplanet.org/8-tips-for-dark-theme-design-8dfc2f8f7ab6).
-
-## O Buscamos Neste Projeto
-
-Queremos ir avançando por partes, com calma, para que o resultado saia bem feito e com o mínimo de tentativas possíveis.
-
-Então, queremos apenas 3 coisas:
-
-- Um logo para a **empresa** techmmunity.
-- Uma identidade visual para a **empresa** techmmunity.
-- Um logo para nosso primeiro **produto** (do setor de programação), uma plataforma online para a postagem de artigos.
-
-São poucas, porém bem complexas, por isso queremos primeiro deixar isso pronto e muito bem feito, para depois pensarmos em mais coisas relacionadas ao design.
 
 ## Resultado Final - Prova de Conceito Inicial
 
